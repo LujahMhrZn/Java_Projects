@@ -51,7 +51,7 @@ public class Calculator {
                     if (num2 != 0) {
                         System.out.println("Result: " + num1 + " / " + num2 + " = " + divisionResult);
                     } else {
-                        System.out.println("Error: Division by one is not allowed.");
+                        System.out.println("Error: Division by zero is not allowed.");
                     }
             
                 default:
